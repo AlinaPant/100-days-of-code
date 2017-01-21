@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 1: January 14, 2017
 
 **Today's Progress**: Coded one of my fancy.
@@ -7,6 +8,7 @@
 **Thoughts:**
 
 **Link to work:** [cat in space](http://codepen.io/SomeLog/full/oBLmMe)
+
 
 ### Day 2: January 15, 2017
 
@@ -16,28 +18,59 @@
 
 **Link(s) to work**: [cat in space](http://codepen.io/SomeLog/full/oBLmMe)
 
+
 ### Day 3: January 16, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 01 Bear Cub.
 
-**Thoughts**
+**Thoughts**:
 
 **Link(s) to work**: [CSS Bear Cub](http://codepen.io/SomeLog/full/dNpQQq/)
 
+
 ### Day 4: January 17, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Coded the Daily CSS Image Challenge: 02 Elephant. I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts:**
 
-**Link to work:** []()
+**Link to work:** [CSS Elephant](http://codepen.io/SomeLog/full/QdGajN/)
 
 
+### Day 5: January 18, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 03 Beaver playing of hide and seek. I've gone through many exercises(27) on FreeCodeCamp.
+
+**Thoughts:**
+
+**Link to work:** [CSS Beaver playing of hide and seek](http://codepen.io/SomeLog/full/zNNGwb/)
 
 
+### Day 6: January 19, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 04 Tiger. Also i did on one more challenge than yesterday on FreeCodeCamp.
+
+**Thoughts:**
+
+**Link to work:** [CSS Tiger](http://codepen.io/SomeLog/full/BpWoJP/)
 
 
+### Day 7: January 20, 2017
 
+**Today's Progress**: Coded the Daily CSS Image Challenge: 05 One punch man.
+
+**Thoughts:**
+
+**Link to work:** [CSS One punch man](http://codepen.io/SomeLog/full/XpMBKL/)
+
+
+### Day 8: January 21, 2017
+
+**Today's Progress**: Solved 29 FreeCodeCamp challenges (finished with the Responsive Design and started jQuery). 
+
+**Thoughts:**
+
+**Link to work:**
 
 
 
