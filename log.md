@@ -73,5 +73,11 @@
 **Link to work:**
 
 
+### Day 9: January 22, 2017
 
+**Today's Progress**: I finished jQuery on FreeCodeCamp and aslo tried beta version. Almost decided who will be on Tribute Page. 
+
+**Thoughts:** Variants of who can be on Tribute Page: Ray Bradbury, Umberto Eco, Harper Lee, Richard Feynman or Salvador Dali.
+
+**Link to work:**
 
