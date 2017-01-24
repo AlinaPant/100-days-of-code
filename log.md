@@ -81,3 +81,11 @@
 
 **Link to work:**
 
+
+### Day 10: January 23, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 06 Clock and Tribute Page. 
+
+**Thoughts:**Tired use only css. So used nest in Daily Image Challenge. I'm thinking that i will be use it time to time and pleased that in Tribute Page used only bootstrap's classes.
+
+**Link to work:**[CSS Clock](http://codepen.io/SomeLog/full/bgRWJB/), [Tribute Page (Ray Bradbury)](http://codepen.io/SomeLog/full/JEJoer/)
