@@ -90,10 +90,28 @@
 
 **Link to work:** [CSS Clock](http://codepen.io/SomeLog/full/bgRWJB/), [Tribute Page (Ray Bradbury)](http://codepen.io/SomeLog/full/JEJoer/)
 
-### Day 10: January 23, 2017
+
+### Day 11: January 24, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 07 Ruler. On fcc started basic JS. But need build a Personal Portfolio Webpage.
 
 **Thoughts:** Think that need write more deiteils includes online courses.
 
 **Link to work:**[CSS Ruler](http://codepen.io/SomeLog/full/MJoxYr/)
+
+
+### Day 12: January 25, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 08 Notepad.
+
+**Thoughts:** Don't like days when sid down do challenge after midnight.
+
+**Link to work:**[CSS Notepad](http://codepen.io/SomeLog/full/oBerKg/)
+
+### Day 13: January 26, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 09 Calendar.
+
+**Thoughts:**  On beta version fcc deletd accound.
+
+**Link to work:**[CSS Calendar](http://codepen.io/SomeLog/full/KaXmGV/)
