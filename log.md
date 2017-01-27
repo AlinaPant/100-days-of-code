@@ -97,7 +97,7 @@
 
 **Thoughts:** Think that need write more deiteils includes online courses.
 
-**Link to work:**[CSS Ruler](http://codepen.io/SomeLog/full/MJoxYr/)
+**Link to work:** [CSS Ruler](http://codepen.io/SomeLog/full/MJoxYr/)
 
 
 ### Day 12: January 25, 2017
@@ -106,7 +106,8 @@
 
 **Thoughts:** Don't like days when sid down do challenge after midnight.
 
-**Link to work:**[CSS Notepad](http://codepen.io/SomeLog/full/oBerKg/)
+**Link to work:** [CSS Notepad](http://codepen.io/SomeLog/full/oBerKg/)
+
 
 ### Day 13: January 26, 2017
 
@@ -114,4 +115,13 @@
 
 **Thoughts:**  On beta version fcc deletd accound.
 
-**Link to work:**[CSS Calendar](http://codepen.io/SomeLog/full/KaXmGV/)
+**Link to work:** [CSS Calendar](http://codepen.io/SomeLog/full/KaXmGV/)
+
+
+### Day 14: January 27, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 10 Pencil Jar.
+
+**Thoughts:** 
+
+**Link to work:** [CSS Pencil Jar](http://codepen.io/SomeLog/full/rjYNEr/)
