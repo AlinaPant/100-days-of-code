@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 28, 2017
+
+**Today's Progress**: Get stuck with Build a Personal Portfolio.
+
+**Thoughts:**
+
+**Link to work:**
+
 
 ### Day 14: January 27, 2017
 
