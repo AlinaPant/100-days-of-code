@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+
+### Day 17: January 30, 2017
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 16: January 29, 2017
+
+**Today's Progress**: Finally have occurred improvements with Build a Portfolio. Js on fcc.
+
+**Thoughts:**
+
+**Link to work:**
+
+
 ### Day 15: January 28, 2017
 
 **Today's Progress**: Get stuck with Build a Personal Portfolio.
