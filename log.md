@@ -3,11 +3,11 @@
 
 ### Day 17: January 30, 2017
 
-**Today's Progress**:
+**Today's Progress**: Finally made Portfolio.
 
-**Thoughts:**
+**Thoughts:** Need fix some moments.
 
-**Link to work:**
+**Link to work:** [Portfolio](http://codepen.io/SomeLog/full/QdaVmq/)
 
 
 ### Day 16: January 29, 2017
