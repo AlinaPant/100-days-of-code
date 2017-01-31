@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 31, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 11 Pizza and 12 Hamburger.
+
+**Thoughts:**
+
+**Link to work:** [Pizza](http://codepen.io/SomeLog/full/ygvVoG/), [Hamburger ](http://codepen.io/SomeLog/full/mRXwYo/)
+
 
 ### Day 17: January 30, 2017
 
