@@ -1,12 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 3, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge:.
+
+**Thoughts:**
+
+**Link to work:** []()
+
+
+### Day 20: February 2, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 14 Cheesecake.
+
+**Thoughts:**
+
+**Link to work:** [Cheesecake](http://codepen.io/SomeLog/full/bgvXWG/)
+
+
+### Day 19: February 1, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 13 Taco.
+
+**Thoughts:**
+
+**Link to work:** [Taco](http://codepen.io/SomeLog/full/zNWNOx/)
+
+
 ### Day 18: January 31, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 11 Pizza and 12 Hamburger.
 
 **Thoughts:**
 
-**Link to work:** [Pizza](http://codepen.io/SomeLog/full/ygvVoG/), [Hamburger ](http://codepen.io/SomeLog/full/mRXwYo/)
+**Link to work:** [Pizza](http://codepen.io/SomeLog/full/ygvVoG/), [Hamburger](http://codepen.io/SomeLog/full/mRXwYo/)
 
 
 ### Day 17: January 30, 2017
