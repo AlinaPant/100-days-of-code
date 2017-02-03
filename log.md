@@ -2,7 +2,7 @@
 
 ### Day 21: February 3, 2017
 
-**Today's Progress**: Coded the Daily CSS Image Challenge:.
+**Today's Progress**: Coded the Daily CSS Image Challenge:. Started Javascript30 course.
 
 **Thoughts:**
 
