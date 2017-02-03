@@ -2,11 +2,11 @@
 
 ### Day 21: February 3, 2017
 
-**Today's Progress**: Coded the Daily CSS Image Challenge:. Started Javascript30 course.
+**Today's Progress**: Coded the Daily CSS Image Challenge: 15 Pie. Started Javascript30 course.
 
 **Thoughts:**
 
-**Link to work:** []()
+**Link to work:** [Pie](http://codepen.io/SomeLog/full/pRVKMZ/)
 
 
 ### Day 20: February 2, 2017
