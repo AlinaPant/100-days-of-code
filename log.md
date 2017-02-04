@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 4, 2017
+
+**Today's Progress**: Second day of Javascript30 course. Started course on http://www.magisters.org/ about JS.
+
+**Thoughts:** Need more&more javascript!
+
+**Link to work:**
+
+
 ### Day 21: February 3, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 15 Pie. Started Javascript30 course.
