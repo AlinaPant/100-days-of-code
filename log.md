@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 6, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 16 Frankenstein. Day 4 of Javascript30 course. After a few days of stuck on fcc I was able to continue challenges.
+
+**Thoughts:** Need to finish with the design for Javascript30 and publish.
+
+**Link to work:** [Frankenstein](http://codepen.io/SomeLog/full/XpBKVQ/)
+
+### Day 23: February 5, 2017
+
+**Today's Progress**: Fixed bags on my Personal Portfolio and did home page on flexbox. Day 3 of Javascript30 course. Finished course on about JS.
+
+**Thoughts:**
+
+**Link to work:** [fcc project: Personal Portfolio ](http://codepen.io/SomeLog/pen/QdaVmq), [home page (flexbox)](http://codepen.io/SomeLog/pen/RKJjYg)
+
 ### Day 22: February 4, 2017
 
 **Today's Progress**: Second day of Javascript30 course. Started course on http://www.magisters.org/ about JS.
