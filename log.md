@@ -1,31 +1,40 @@
 # 100 Days Of Code - Log
 
 
-### Day 27: February 9, 2017
+### Day 28: February 10, 2017
 
-**Today's Progress**: 
+**Today's Progress**:
 
 **Thoughts:**
 
-**Link to work:** []()
+**Link to work:**
+
+
+### Day 27: February 9, 2017
+
+**Today's Progress**: For Daily CSS Image Challenge: finished code day 17 Zombie; started day 18 Vampire; coded day 19 Monster of Choice -  Oblina.
+
+**Thoughts:**
+
+**Link to work:** [Zombie](https://codepen.io/SomeLog/full/JEaxBL/), [Vampire](https://codepen.io/SomeLog/full/vgVZgq/), [Monster of Choice -  Oblina](https://codepen.io/SomeLog/full/dNgJqO/)
 
 
 ### Day 26: February 8, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Can't choose one idea of Zombies. So started do all. Today missed one day of Javascript30 Challenge.
 
 **Thoughts:**
 
-**Link to work:** []()
+**Link to work:** [Zombie](https://codepen.io/SomeLog/full/JEaxBL/)
 
 
 ### Day 25: February 7, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Day 5 of Javascript30 course and fcc.
 
-**Thoughts:**
+**Thoughts:** Have a few ideas about Zombie for Daily CSS Image Challenge.
 
-**Link to work:** []()
+**Link to work:**
 
 
 ### Day 24: February 6, 2017
