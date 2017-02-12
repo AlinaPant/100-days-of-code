@@ -1,13 +1,32 @@
 # 100 Days Of Code - Log
 
 
-### Day 28: February 10, 2017
 
-**Today's Progress**:
+### Day 30: February 12, 2017
+
+**Today's Progress**: Continue working on home page (flexbox): added tabs and filled text&icons. For Daily CSS Image Challenge: finished code day 20 Monster of Choice.
+
+**Thoughts:** Not moved of Javascript30 course. Still on the day 6. Thought that don't need to finish with the design and publish as is all. Then add to or remodel.
+
+**Link to work:** [home page (flexbox)](http://codepen.io/SomeLog/full/RKJjYg/), [Monster of Choice](http://codepen.io/SomeLog/full/JEeqxJ/)
+
+
+### Day 29: February 11, 2017
+
+**Today's Progress**: For Daily CSS Image Challenge: started code day 20 Monster of Choice. Had some problem with idea.
 
 **Thoughts:**
 
-**Link to work:**
+**Link to work:** [Monster of Choice](http://codepen.io/SomeLog/full/JEeqxJ/)
+
+
+### Day 28: February 10, 2017
+
+**Today's Progress**: For Daily CSS Image Challenge: finished code day 18 Vampire.
+
+**Thoughts:**
+
+**Link to work:**  [Vampire](https://codepen.io/SomeLog/full/vgVZgq/)
 
 
 ### Day 27: February 9, 2017
