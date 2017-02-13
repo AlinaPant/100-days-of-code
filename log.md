@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 31: February 13, 2017
+
+**Today's Progress**:  Coded the Daily CSS Image Challenge: 21 Superman-cat. In Template (flexbox, responsive): added animation and copyright, filled section work.
+
+**Thoughts:**
+
+**Link to work:** [Superman-cat](http://codepen.io/SomeLog/full/QdYWdL/), [Template (flexbox, responsive)](http://codepen.io/SomeLog/full/RKJjYg/)
+
 
 ### Day 30: February 12, 2017
 
