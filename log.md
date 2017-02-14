@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 32: February 14, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 22 Green Lantern. Converted psd to html (adaptive).
+
+**Thoughts:**
+
+**Link to work:** [Green Lantern](http://codepen.io/SomeLog/full/KaJevx/), [psd kitchen-master](http://t96483hz.bget.ru/conversion/PSD_to_HTML/kitchen-master/)
+
+
 ### Day 31: February 13, 2017
 
 **Today's Progress**:  Coded the Daily CSS Image Challenge: 21 Superman-cat. In Template (flexbox, responsive): added animation and copyright, filled section work.
