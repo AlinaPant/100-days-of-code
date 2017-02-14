@@ -7,7 +7,7 @@
 
 **Thoughts:**
 
-**Link to work:** [Green Lantern](http://codepen.io/SomeLog/full/KaJevx/), [psd to see](http://t96483hz.bget.ru/conversion/PSD_to_HTML/kitchen-master/), [psd (code)](https://github.com/AlinaPant/psd_to_html)
+**Link to work:** [Green Lantern](http://codepen.io/SomeLog/full/KaJevx/), [psd to see](http://t96483hz.bget.ru/conversion/PSD_to_HTML/kitchen-master/) / [psd (code)](https://github.com/AlinaPant/psd_to_html)
 
 
 ### Day 31: February 13, 2017
