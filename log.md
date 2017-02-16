@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 34: February 16, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 24 Iron Man. Studied wordpress.
+
+**Thoughts:**
+
+**Link to work:** [Iron Man](http://codepen.io/SomeLog/full/zNXRNJ/)
+
+
 ### Day 33: February 15, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 23 Wolverine-cat and finished play with voices of animal.
