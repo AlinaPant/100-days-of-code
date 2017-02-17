@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 35: February 17, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 25 Captain America. Continue studie wordpress. Progress in wordpress is small.
+
+**Thoughts:**
+
+**Link to work:** [Captain America](http://codepen.io/SomeLog/full/PWvbzw/)
+
+
 ### Day 34: February 16, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 24 Iron Man. Studied wordpress.
