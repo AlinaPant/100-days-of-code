@@ -5,7 +5,7 @@
 
 **Today's Progress**: Plaied with images modal. Continue with wordpress. Finally finished on fcc Basic JS.
 
-**Thoughts:** Want do Landing Page on wordpress.
+**Thoughts:** Want to do Landing Page on wordpress.
 
 **Link to work:** [image modal](http://codepen.io/SomeLog/pen/OWYoYe)
 
