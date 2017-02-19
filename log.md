@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 36: February 18, 2017
+
+**Today's Progress**: Plaied with images modal. Continue with wordpress. Finally finished on fcc Basic JS.
+
+**Thoughts:** Want do Landing Page on wordpress.
+
+**Link to work:** [image modal](http://codepen.io/SomeLog/pen/OWYoYe)
+
+
 ### Day 35: February 17, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 25 Captain America. Continue studie wordpress. Progress in wordpress is small.
