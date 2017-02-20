@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
 
+### Day 38: February 20, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 26 Spotify Icon. Continued OOP on freecodecamp.
+
+**Thoughts:**
+
+**Link to work:** [Spotify Icon](http://codepen.io/SomeLog/pen/bgPJqm)
+
+
+### Day 37: February 19, 2017
+
+**Today's Progress**: OOP on freecodecamp and not only.
+
+**Thoughts:** Need more OOP.
+
+**Link to work:**
+
+
 ### Day 36: February 18, 2017
 
 **Today's Progress**: Plaied with images modal. Continue with wordpress. Finally finished on fcc Basic JS.
