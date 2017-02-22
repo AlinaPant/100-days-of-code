@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 40: February 22, 2017
+
+**Today's Progress**: On freecodecamp finished with OOP, started Basic Algorithms (Reverse a String, Factorialize a Number).
+
+**Thoughts:** Mulling option about preservation of my solutions on github. This may be useful.
+
+**Link to work:**
+
+
 ### Day 39: February 21, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 27 Google Maps Icon. Continued OOP on freecodecamp.
