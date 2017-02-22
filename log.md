@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 21, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 27 Google Maps Icon. Continued OOP on freecodecamp.
+
+**Thoughts:**
+
+**Link to work:** [Google Maps Icon](http://codepen.io/SomeLog/full/rjXGgp/)
+
 
 ### Day 38: February 20, 2017
 
