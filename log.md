@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 23, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 29 Download Icon. On fcc did only 1 challenge (Check for Palindromes).
+
+**Thoughts:**
+
+**Link to work:**[Download Icon](http://codepen.io/SomeLog/full/BWapmN/)
+
 
 ### Day 40: February 22, 2017
 
