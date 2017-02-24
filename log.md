@@ -2,6 +2,15 @@
 
 ### Day 41: February 23, 2017
 
+**Today's Progress**: On fcc: Find the Longest Word in a String && Title Case a Sentence.
+
+**Thoughts:**
+
+**Link to work:**[]()
+
+
+### Day 41: February 23, 2017
+
 **Today's Progress**: Coded the Daily CSS Image Challenge: 29 Download Icon. On fcc did only 1 challenge (Check for Palindromes).
 
 **Thoughts:**
