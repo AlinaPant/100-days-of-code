@@ -7,7 +7,10 @@
 
 **Thoughts:**
 
-**Link to work:** [Cogs](http://codepen.io/SomeLog/full/zZxPmp/), [Bar Graph](http://codepen.io/SomeLog/full/xqbLzN/), [Return Largest Numbers in Arrays](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays#?solution=%0Afunction%20largestOfFour(arr)%20%7B%0A%20%20%0A%20%20var%20largestNumber%20%3D%20%5B0%2C0%2C0%2C0%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%0A%20%20%20%20for%20(var%20j%20%3D%200%3B%20j%20%3C%20arr%5Bi%5D.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20if%20(arr%5Bi%5D%5Bj%5D%20%3E%20largestNumber%5Bi%5D)%20%7B%0A%20%20%20%20%20%20%20%20largestNumber%5Bi%5D%20%3D%20arr%5Bi%5D%5Bj%5D%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20largestNumber%3B%0A%20%20%0A%7D%0A%0AlargestOfFour(%5B%5B4%2C%205%2C%201%2C%203%5D%2C%20%5B13%2C%2027%2C%2018%2C%2026%5D%2C%20%5B32%2C%2035%2C%2037%2C%2039%5D%2C%20%5B1000%2C%201001%2C%20857%2C%201%5D%5D)%3B)
+**Link to work:**
+  * [Cogs](http://codepen.io/SomeLog/full/zZxPmp/)
+  * [Bar Graph](http://codepen.io/SomeLog/full/xqbLzN/)
+  * [Return Largest Numbers in Arrays](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays#?solution=%0Afunction%20largestOfFour(arr)%20%7B%0A%20%20%0A%20%20var%20largestNumber%20%3D%20%5B0%2C0%2C0%2C0%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%0A%20%20%20%20for%20(var%20j%20%3D%200%3B%20j%20%3C%20arr%5Bi%5D.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20if%20(arr%5Bi%5D%5Bj%5D%20%3E%20largestNumber%5Bi%5D)%20%7B%0A%20%20%20%20%20%20%20%20largestNumber%5Bi%5D%20%3D%20arr%5Bi%5D%5Bj%5D%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20largestNumber%3B%0A%20%20%0A%7D%0A%0AlargestOfFour(%5B%5B4%2C%205%2C%201%2C%203%5D%2C%20%5B13%2C%2027%2C%2018%2C%2026%5D%2C%20%5B32%2C%2035%2C%2037%2C%2039%5D%2C%20%5B1000%2C%201001%2C%20857%2C%201%5D%5D)%3B)
 
 
 ### Day 42: February 24, 2017
