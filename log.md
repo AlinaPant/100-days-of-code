@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 41: February 23, 2017
+
+### Day 43: February 25, 2017
+
+**Today's Progress**: Coded the Daily CSS Image Challenge: 28 Cogs && 30 Bar Graph.
+
+**Thoughts:**
+
+**Link to work:**[Cogs](http://codepen.io/SomeLog/full/zZxPmp/), [Bar Graph](http://codepen.io/SomeLog/full/xqbLzN/)
+
+
+### Day 42: February 24, 2017
 
 **Today's Progress**: On fcc: Find the Longest Word in a String && Title Case a Sentence.
 
