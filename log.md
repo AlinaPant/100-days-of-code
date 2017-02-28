@@ -1,6 +1,35 @@
 # 100 Days Of Code - Log
 
 
+
+
+### Day 46: February 28, 2017
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:**[]()
+
+
+### Day 45: February 27, 2017
+
+**Today's Progress**: Created for Daily CSS Image Challenge: JavaScript Logo (day 31). Found solution in challenge Confirm the Ending. Solution turned very simple.
+
+**Thoughts:**
+
+**Link to work:** [JavaScript Logo](http://codepen.io/SomeLog/full/peJqOd/), [Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
+
+
+### Day 44: February 26, 2017
+
+**Today's Progress**: On fcc had problem with solution in challenge Confirm the Ending.
+
+**Thoughts:**
+
+**Link to work:**[Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
+
+
 ### Day 43: February 25, 2017
 
 **Today's Progress**: Coded the Daily CSS Image Challenge: 28 Cogs && 30 Bar Graph. On fcc did only 1 challenge (Return Largest Numbers in Arrays).
