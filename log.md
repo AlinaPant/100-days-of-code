@@ -5,20 +5,23 @@
 
 ### Day 46: February 28, 2017
 
-**Today's Progress**: 
+**Today's Progress**: On fcc: Repeat a string repeat a string. Read on mdn about js.
 
 **Thoughts:**
 
-**Link to work:**[]()
+**Link to work:**
+  * [Repeat a string repeat a string](https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string#?solution=%0Afunction%20repeatStringNumTimes(str%2C%20num)%20%7B%0A%20%20%0A%20%20if%20(num%20%3C%201)%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20(%22%22)%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20else%20if%20(num%20%3E%200)%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20str.repeat(num)%3B%0A%20%20%20%20%0A%20%20%7D%0A%7D%0A%0ArepeatStringNumTimes(%22abc%22%2C%203)%3B%0A)
 
 
 ### Day 45: February 27, 2017
 
-**Today's Progress**: Created for Daily CSS Image Challenge: JavaScript Logo (day 31). Found solution in challenge Confirm the Ending. Solution turned very simple.
+**Today's Progress**: Created for Daily CSS Image Challenge: JavaScript Logo (day 31). Found solution in challenge Confirm the Ending. Solution turned very simple (don't need use any loops).
 
 **Thoughts:**
 
-**Link to work:** [JavaScript Logo](http://codepen.io/SomeLog/full/peJqOd/), [Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
+**Link to work:** 
+  * [JavaScript Logo](http://codepen.io/SomeLog/full/peJqOd/)
+  * [Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
 
 
 ### Day 44: February 26, 2017
@@ -27,7 +30,8 @@
 
 **Thoughts:**
 
-**Link to work:**[Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
+**Link to work:**
+  * [Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
 
 
 ### Day 43: February 25, 2017
@@ -57,7 +61,8 @@
 
 **Thoughts:**
 
-**Link to work:**[Download Icon](http://codepen.io/SomeLog/full/BWapmN/)
+**Link to work:**
+  * [Download Icon](http://codepen.io/SomeLog/full/BWapmN/)
 
 
 ### Day 40: February 22, 2017
