@@ -2,6 +2,14 @@
 
 
 
+### Day 46: February 28, 2017
+
+**Today's Progress**: Created for Daily CSS Image Challenge: Vue JS Logo (day 33).
+
+**Thoughts:** 
+
+**Link to work:** [Vue JS Logo](http://codepen.io/SomeLog/full/WproPz/)
+
 
 ### Day 46: February 28, 2017
 
