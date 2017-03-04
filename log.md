@@ -2,13 +2,50 @@
 
 
 
-### Day 46: February 28, 2017
+
+
+### Day 50: February 4, 2017
+
+**Today's Progress**: Created for Daily CSS Image Challenge: Elm Logo (day 35) and reworked some things in React Logo. On fcc: Truncate a string, Chunky Monkey, Slasher Flick.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Elm Logo](http://codepen.io/AlinaPant/full/RpRGGx/)
+ * [React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
+ * [Truncate a string](https://www.freecodecamp.com/challenges/truncate-a-string#?solution=%0Afunction%20truncateString(str%2C%20num)%20%7B%0A%20%20%0A%20%20if%20(str.length%20%3E%20num%20%26%20num%20%3E%203)%20%7B%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20return%20str.slice(0%2C%20(num%20-%203))%20%2B%20%22...%22%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20else%20if%20(str.length%20%3E%20num%20%26%20num%20%3C%3D%203)%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20str.slice(0%2C%20num)%20%2B%20%22...%22%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20else%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20str%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%7D%0A%0AtruncateString(%22A-tisket%20a-tasket%20A%20green%20and%20yellow%20basket%22%2C%202)%3B%0A)
+ * [Chunky Monkey](https://www.freecodecamp.com/challenges/chunky-monkey#?solution=%0Afunction%20chunkArrayInGroups(arr%2C%20size)%20%7B%20%20%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%20%2B%3D%20size)%20%7B%0A%20%20%20%20%0A%20%20%20%20newArr.push(arr.slice(i%2C%20i%2Bsize))%3B%0A%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20newArr%3B%0A%20%20%20%20%0A%7D%0A%0AchunkArrayInGroups(%5B%22a%22%2C%20%22b%22%2C%20%22c%22%2C%20%22d%22%5D%2C%202)%3B%0A)
+ * [Slasher Flick](https://www.freecodecamp.com/challenges/slasher-flick#?solution=%0Afunction%20slasher(arr%2C%20howMany)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20newArr%20%3D%20arr.slice().splice(howMany)%3B%0A%20%20%7D%0A%20%20%0A%20%20return%20newArr%3B%0A%7D%0A%0Aslasher(%5B1%2C%202%2C%20%22chicken%22%2C%203%2C%20%22potatoes%22%2C%20%22cheese%22%2C%204%5D%2C%205)%3B%0A)
+
+
+### Day 49: February 3, 2017
+
+**Today's Progress**: Created for Daily CSS Image Challenge: React Logo (day 34).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
+
+
+### Day 48: February 2, 2017
+
+**Today's Progress**: Created for Daily CSS Image Challenge: Angular Logo (day 32).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Angular Logo](http://codepen.io/AlinaPant/full/LWNNQo/)
+
+
+### Day 47: February 1, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: Vue JS Logo (day 33).
 
 **Thoughts:** 
 
-**Link to work:** [Vue JS Logo](http://codepen.io/SomeLog/full/WproPz/)
+**Link to work:**
+ * [Vue JS Logo](http://codepen.io/SomeLog/full/WproPz/)
 
 
 ### Day 46: February 28, 2017
