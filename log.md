@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 51: February 5, 2017
 
+**Today's Progress**: On freecodecamp: Mutations, Falsy Bouncer.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Mutations](https://www.freecodecamp.com/challenges/mutations#?solution=%0Afunction%20mutation(arr)%20%7B%20%20%0A%20%20%0A%20%20word_1%20%3D%20arr%5B0%5D.toLowerCase()%3B%0A%20%20word_2%20%3D%20arr%5B1%5D.toLowerCase()%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20word_2.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%0A%20%20%20%20var%20res%20%3D%20word_1.indexOf(word_2%5Bi%5D)%3B%0A%20%20%20%20%0A%20%20%20%20if%20(res%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20return%20true%3B%0A%20%20%0A%7D%0A%0Amutation(%5B%22hello%22%2C%20%22hey%22%5D)%3B%0A)
+ * [Falsy Bouncer](https://www.freecodecamp.com/challenges/falsy-bouncer#?solution=%0Afunction%20bouncer(arr)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20newArr%20%3D%20arr.filter(remove)%3B%0A%20%20%20%20%20%20%0A%20%20return%20newArr%3B%0A%7D%0A%0Afunction%20remove(val)%20%7B%0A%20%20return%20Boolean(val)%3B%0A%7D%0A%0A%0A%0Abouncer(%5B7%2C%20%22ate%22%2C%20%22%22%2C%20false%2C%209%5D)%3B%0A)
 
 
 ### Day 50: February 4, 2017
