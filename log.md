@@ -6,11 +6,15 @@
 
 ### Day 54: February 8, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Created for Daily CSS Image Challenge: External Monitor (day 38). Finished on fcc Basic Algorithm Scripting (Seek and Destroy, Where do I belong, Caesars Cipher).
 
 **Thoughts:** 
 
 **Link to work:**
+ * [External Monitor](http://codepen.io/AlinaPant/full/KWNjPM/)
+ * [Seek and Destroy](https://www.freecodecamp.com/challenges/seek-and-destroy#?solution=%0Afunction%20destroyer(arr)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20Array.prototype.slice.call(arguments)%3B%0A%20%20%0A%20%20newArr.splice(0%2C%201)%3B%0A%20%20%0A%20%20return%20arr.filter(function(element)%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20newArr.indexOf(element)%20%3D%3D%3D%20-1%3B%0A%20%20%20%20%0A%20%20%7D)%3B%0A%20%20%0A%7D%0A%0Adestroyer(%5B1%2C%202%2C%203%2C%201%2C%202%2C%203%5D%2C%202%2C%203)%3B%0A)
+ * [Where do I belong](https://www.freecodecamp.com/challenges/where-do-i-belong#?solution=%0Afunction%20getIndexToIns(arr%2C%20num)%20%7B%0A%20%20%0A%20%20var%20pos%20%3D%200%3B%0A%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%0A%20%20%20%20if%20(arr%5Bi%5D%20-%20num%20%3C%200)%20%7B%0A%20%20%20%20%20%20pos%2B%2B%3B%0A%20%20%20%20%7D%20%20%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20pos%3B%0A%7D%0A%0AgetIndexToIns(%5B88%2C%2040%2C%2060%5D%2C%2050)%3B%0A)
+ * [Caesars Cipher](https://www.freecodecamp.com/challenges/Caesars%20Cipher?solution=%0Afunction%20rot13(str)%20%7B%20%2F%2F%20LBH%20QVQ%20VG!%0A%20%20%0A%20%20return%20str.split(%22%22).map(doConvert).join(%22%22)%3B%0A%20%20%0A%20%20function%20doConvert(letter)%20%7B%0A%20%20%20%20%0A%20%20%20%20x%20%3D%20letter.charCodeAt(0)%3B%0A%20%20%20%20%0A%20%20%20%20if%20(x%20%3C%2065%20%7C%7C%20x%20%3E%2090)%20%7B%0A%20%20%20%20%20%20return%20String.fromCharCode(x)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20else%20if%20(x%20%3C%2078)%20%7B%0A%20%20%20%20%20%20return%20String.fromCharCode(x%20%2B%2013)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20return%20String.fromCharCode(x%20-%2013)%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%7D%0A%0A%2F%2F%20Change%20the%20inputs%20below%20to%20test%0Arot13(%22SERR%20PBQR%20PNZC%22)%3B)
 
 
 ### Day 53: February 7, 2017
