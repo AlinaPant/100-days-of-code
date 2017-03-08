@@ -1,6 +1,38 @@
 # 100 Days Of Code - Log
 
 
+
+
+
+### Day 54: February 8, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 53: February 7, 2017
+
+**Today's Progress**: Wall pizza.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Wall pizza](http://codepen.io/AlinaPant/full/yMVexW/)
+
+
+### Day 52: February 6, 2017
+
+**Today's Progress**: Created for Daily CSS Image Challenge: Cell Phone (day 36).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Cell Phone](http://codepen.io/AlinaPant/full/yMaVxM/)
+
+
 ### Day 51: February 5, 2017
 
 **Today's Progress**: On freecodecamp: Mutations, Falsy Bouncer.
