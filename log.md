@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 55: February 9, 2017
 
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:**
 
 
 ### Day 54: February 8, 2017
@@ -11,7 +17,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [External Monitor](http://codepen.io/AlinaPant/full/KWNjPM/)
+ * [CSS External Monitor](http://codepen.io/AlinaPant/full/KWNjPM/)
  * [Seek and Destroy](https://www.freecodecamp.com/challenges/seek-and-destroy#?solution=%0Afunction%20destroyer(arr)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20Array.prototype.slice.call(arguments)%3B%0A%20%20%0A%20%20newArr.splice(0%2C%201)%3B%0A%20%20%0A%20%20return%20arr.filter(function(element)%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20newArr.indexOf(element)%20%3D%3D%3D%20-1%3B%0A%20%20%20%20%0A%20%20%7D)%3B%0A%20%20%0A%7D%0A%0Adestroyer(%5B1%2C%202%2C%203%2C%201%2C%202%2C%203%5D%2C%202%2C%203)%3B%0A)
  * [Where do I belong](https://www.freecodecamp.com/challenges/where-do-i-belong#?solution=%0Afunction%20getIndexToIns(arr%2C%20num)%20%7B%0A%20%20%0A%20%20var%20pos%20%3D%200%3B%0A%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%0A%20%20%20%20if%20(arr%5Bi%5D%20-%20num%20%3C%200)%20%7B%0A%20%20%20%20%20%20pos%2B%2B%3B%0A%20%20%20%20%7D%20%20%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20pos%3B%0A%7D%0A%0AgetIndexToIns(%5B88%2C%2040%2C%2060%5D%2C%2050)%3B%0A)
  * [Caesars Cipher](https://www.freecodecamp.com/challenges/Caesars%20Cipher?solution=%0Afunction%20rot13(str)%20%7B%20%2F%2F%20LBH%20QVQ%20VG!%0A%20%20%0A%20%20return%20str.split(%22%22).map(doConvert).join(%22%22)%3B%0A%20%20%0A%20%20function%20doConvert(letter)%20%7B%0A%20%20%20%20%0A%20%20%20%20x%20%3D%20letter.charCodeAt(0)%3B%0A%20%20%20%20%0A%20%20%20%20if%20(x%20%3C%2065%20%7C%7C%20x%20%3E%2090)%20%7B%0A%20%20%20%20%20%20return%20String.fromCharCode(x)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20else%20if%20(x%20%3C%2078)%20%7B%0A%20%20%20%20%20%20return%20String.fromCharCode(x%20%2B%2013)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20return%20String.fromCharCode(x%20-%2013)%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%7D%0A%0A%2F%2F%20Change%20the%20inputs%20below%20to%20test%0Arot13(%22SERR%20PBQR%20PNZC%22)%3B)
@@ -24,7 +30,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [Wall pizza](http://codepen.io/AlinaPant/full/yMVexW/)
+ * [CSS Wall pizza](http://codepen.io/AlinaPant/full/yMVexW/)
 
 
 ### Day 52: February 6, 2017
@@ -34,7 +40,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [Cell Phone](http://codepen.io/AlinaPant/full/yMaVxM/)
+ * [CSS Cell Phone](http://codepen.io/AlinaPant/full/yMaVxM/)
 
 
 ### Day 51: February 5, 2017
@@ -55,8 +61,8 @@
 **Thoughts:** 
 
 **Link to work:**
- * [Elm Logo](http://codepen.io/AlinaPant/full/RpRGGx/)
- * [React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
+ * [CSS Elm Logo](http://codepen.io/AlinaPant/full/RpRGGx/)
+ * [CSS React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
  * [Truncate a string](https://www.freecodecamp.com/challenges/truncate-a-string#?solution=%0Afunction%20truncateString(str%2C%20num)%20%7B%0A%20%20%0A%20%20if%20(str.length%20%3E%20num%20%26%20num%20%3E%203)%20%7B%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20return%20str.slice(0%2C%20(num%20-%203))%20%2B%20%22...%22%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20else%20if%20(str.length%20%3E%20num%20%26%20num%20%3C%3D%203)%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20str.slice(0%2C%20num)%20%2B%20%22...%22%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20else%20%7B%0A%20%20%20%20%0A%20%20%20%20return%20str%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%7D%0A%0AtruncateString(%22A-tisket%20a-tasket%20A%20green%20and%20yellow%20basket%22%2C%202)%3B%0A)
  * [Chunky Monkey](https://www.freecodecamp.com/challenges/chunky-monkey#?solution=%0Afunction%20chunkArrayInGroups(arr%2C%20size)%20%7B%20%20%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%20%2B%3D%20size)%20%7B%0A%20%20%20%20%0A%20%20%20%20newArr.push(arr.slice(i%2C%20i%2Bsize))%3B%0A%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20newArr%3B%0A%20%20%20%20%0A%7D%0A%0AchunkArrayInGroups(%5B%22a%22%2C%20%22b%22%2C%20%22c%22%2C%20%22d%22%5D%2C%202)%3B%0A)
  * [Slasher Flick](https://www.freecodecamp.com/challenges/slasher-flick#?solution=%0Afunction%20slasher(arr%2C%20howMany)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20newArr%20%3D%20arr.slice().splice(howMany)%3B%0A%20%20%7D%0A%20%20%0A%20%20return%20newArr%3B%0A%7D%0A%0Aslasher(%5B1%2C%202%2C%20%22chicken%22%2C%203%2C%20%22potatoes%22%2C%20%22cheese%22%2C%204%5D%2C%205)%3B%0A)
@@ -69,7 +75,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
+ * [CSS React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
 
 
 ### Day 48: February 2, 2017
@@ -79,7 +85,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [Angular Logo](http://codepen.io/AlinaPant/full/LWNNQo/)
+ * [CSS Angular Logo](http://codepen.io/AlinaPant/full/LWNNQo/)
 
 
 ### Day 47: February 1, 2017
@@ -89,7 +95,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [Vue JS Logo](http://codepen.io/SomeLog/full/WproPz/)
+ * [CSS Vue JS Logo](http://codepen.io/SomeLog/full/WproPz/)
 
 
 ### Day 46: February 28, 2017
@@ -109,7 +115,7 @@
 **Thoughts:**
 
 **Link to work:** 
-  * [JavaScript Logo](http://codepen.io/SomeLog/full/peJqOd/)
+  * [CSS JavaScript Logo](http://codepen.io/SomeLog/full/peJqOd/)
   * [Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending#?solution=%0Afunction%20confirmEnding(str%2C%20target)%20%7B%0A%20%20%0A%20%20return%20target%20%3D%3D%3D%20str.substr(str.length%20-%20target.length)%3B%0A%20%20%0A%7D%0A%0AconfirmEnding(%22Bastian%22%2C%20%22n%22)%3B%0A)
 
 
@@ -130,8 +136,8 @@
 **Thoughts:**
 
 **Link to work:**
-  * [Cogs](http://codepen.io/SomeLog/full/zZxPmp/)
-  * [Bar Graph](http://codepen.io/SomeLog/full/xqbLzN/)
+  * [CSS Cogs](http://codepen.io/SomeLog/full/zZxPmp/)
+  * [CSS Bar Graph](http://codepen.io/SomeLog/full/xqbLzN/)
   * [Return Largest Numbers in Arrays](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays#?solution=%0Afunction%20largestOfFour(arr)%20%7B%0A%20%20%0A%20%20var%20largestNumber%20%3D%20%5B0%2C0%2C0%2C0%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20%0A%20%20%20%20for%20(var%20j%20%3D%200%3B%20j%20%3C%20arr%5Bi%5D.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20if%20(arr%5Bi%5D%5Bj%5D%20%3E%20largestNumber%5Bi%5D)%20%7B%0A%20%20%20%20%20%20%20%20largestNumber%5Bi%5D%20%3D%20arr%5Bi%5D%5Bj%5D%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%20%20return%20largestNumber%3B%0A%20%20%0A%7D%0A%0AlargestOfFour(%5B%5B4%2C%205%2C%201%2C%203%5D%2C%20%5B13%2C%2027%2C%2018%2C%2026%5D%2C%20%5B32%2C%2035%2C%2037%2C%2039%5D%2C%20%5B1000%2C%201001%2C%20857%2C%201%5D%5D)%3B)
 
 
@@ -141,7 +147,9 @@
 
 **Thoughts:**
 
-**Link to work:**[]()
+**Link to work:**
+ * [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string#?solution=%0Afunction%20findLongestWord(str)%20%7B%0A%20%20%0A%20%20var%20forStrSplit%20%3D%20str.split(%22%20%22)%3B%0A%20%20var%20longestWord%20%3D%200%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20forStrSplit.length%3B%20i%2B%2B)%7B%0A%20%20%20%20if%20(forStrSplit%5Bi%5D.length%20%3E%20longestWord)%20%7B%0A%09%20%20longestWord%20%3D%20forStrSplit%5Bi%5D.length%3B%20%0A%20%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20return%20longestWord%3B%0A%7D%0A%0AfindLongestWord(%22The%20quick%20brown%20fox%20jumped%20over%20the%20lazy%20dog%22)%3B%0A)
+ * [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence#?solution=%0Afunction%20titleCase(str)%20%7B%0A%20%20%0A%20%20var%20strSplit%20%3D%20str.toLowerCase().split(%22%20%22)%3B%0A%20%20%0A%20%20%0A%20%20var%20arr%20%3D%20strSplit.map(function(val)%20%7B%0A%20%20%20%20return%20val.charAt(0).toUpperCase()%20%2B%20val.slice(1)%3B%0A%20%20%7D).join(%22%20%22)%3B%0A%20%20%0A%20%20return%20(arr)%3B%20%20%0A%20%20%0A%7D%0A%0AtitleCase(%22I%27m%20a%20little%20tea%20pot%22)%3B%0A)
 
 
 ### Day 41: February 23, 2017
@@ -152,6 +160,7 @@
 
 **Link to work:**
   * [Download Icon](http://codepen.io/SomeLog/full/BWapmN/)
+  * [Check for Palindromes](https://www.freecodecamp.com/challenges/check-for-palindromes#?solution=%0Afunction%20palindrome(str)%20%7B%0A%20%20%0A%20%20return%20%20str.toLowerCase().replace(%2F%5B%5E%24A-Za-z0-9%5D%2Fg%2C%20%22%22)%20%3D%3D%3D%20str.toLowerCase().replace(%2F%5B%5EA-Za-z0%E2%80%939%5D%2Fg%2C%20%22%22).split(%22%22).reverse().join(%22%22)%3B%0A%20%20%0A%7D%0A%0Apalindrome(%22eY%20e%22)%3B%0A)
 
 
 ### Day 40: February 22, 2017
@@ -161,6 +170,8 @@
 **Thoughts:** Mulling option about preservation of my solutions on github. This may be useful.
 
 **Link to work:**
+ * [Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string#?solution=%0Afunction%20reverseString(str)%20%7B%0A%2F%2F%20%20%20str.split(%22%2C%20%22)%3B%0A%2F%2F%20%20%20str.revers()%3B%0A%2F%2F%20%20%20str.join()%3B%0A%20%20return%20str.split(%22%22).reverse().join(%22%22)%3B%0A%7D%0A%0AreverseString(%22hello%22)%3B%0A)
+ * [Factorialize a Number](https://www.freecodecamp.com/challenges/factorialize-a-number#?solution=%0Afunction%20factorialize(num)%20%7B%0A%20%20%0A%20%20if%20(num%20%3D%3D%3D%200)%20%7B%0A%20%20%20%20return%201%3B%0A%20%20%7D%0A%20%20%0A%20%20if%20(num%20%3C%200)%20%7B%0A%20%20%20%20return%20(%22try%20again%20with%20positive%20number%22)%3B%0A%20%20%7D%0A%20%20%0A%20%20if%20(num%20%3E%200)%20%7B%0A%20%20%20%20%0A%2F%2F%20%20%20%20%20for%20(var%20i%20%3D%201%3B%20i%20%3C%3D%20num%3B%20i%2B%2B)%20%7B%0A%2F%2F%20%20%20%20%20%20%20i%20%3D%20i%20*%20factorialize(num)%3B%0A%20%20%20%20%20%20return%20factorialize(num-1)%20*%20num%3B%0A%20%20%7D%0A%7D%0A%0Afactorialize(5)%3B%0A)
 
 
 ### Day 39: February 21, 2017
