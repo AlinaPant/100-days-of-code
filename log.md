@@ -1,16 +1,40 @@
 # 100 Days Of Code - Log
 
 
-### Day 55: February 9, 2017
 
-**Today's Progress**:
+### Day 57: March 11, 2017
+
+**Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:**
 
 
-### Day 54: February 8, 2017
+### Day 56: March 10, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 55: March 9, 2017
+
+**Today's Progress**: Coded cup of coffee and  Laptop (day 37) for Daily CSS Image Challenge. On fcc: Trigger Click Events with jQuery, Change Text with Click Events, Get JSON with the jQuery getJSON Method. 
+
+**Thoughts:** 
+
+**Link to work:**
+ * [CSS Laptop](http://codepen.io/AlinaPant/full/zZNQwv/)
+ * [CSS cup of coffee](http://codepen.io/AlinaPant/full/XMpPjy/)
+ * [Trigger Click Events with jQuery](https://www.freecodecamp.com/challenges/trigger-click-events-with-jquery#?solution=%0Afccss%0A%20%20%24(document).ready(function()%20%7B%0A%20%20%20%20%2F%2F%20Only%20change%20code%20below%20this%20line.%0A%20%20%20%20%24(%22%23getMessage%22).on(%22click%22%2C%20function%20()%20%7B%0A%20%20%20%20%20%20%0A%20%20%20%20%7D)%3B%0A%20%20%20%20%2F%2F%20Only%20change%20code%20above%20this%20line.%0A%20%20%7D)%3B%0Afcces%0A%0A%0A%3Cdiv%20class%3D%22container-fluid%22%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Ch2%3ECat%20Photo%20Finder%3C%2Fh2%3E%0A%20%20%3C%2Fdiv%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Cdiv%20class%20%3D%20%22col-xs-12%20well%20message%22%3E%0A%20%20%20%20%20%20The%20message%20will%20go%20here%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2Fdiv%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Cdiv%20class%20%3D%20%22col-xs-12%22%3E%0A%20%20%20%20%20%20%3Cbutton%20id%20%3D%20%22getMessage%22%20class%20%3D%20%22btn%20btn-primary%22%3E%0A%20%20%20%20%20%20%20%20Get%20Message%0A%20%20%20%20%20%20%3C%2Fbutton%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A)
+ * [Change Text with Click Events](https://www.freecodecamp.com/challenges/change-text-with-click-events#?solution=%0Afccss%0A%20%20%24(document).ready(function()%20%7B%0A%20%20%20%20%24(%22%23getMessage%22).on(%22click%22%2C%20function()%7B%0A%20%20%20%20%20%20%2F%2F%20Only%20change%20code%20below%20this%20line.%0A%20%20%20%20%20%20%24(%22.message%22).html(%22Here%20is%20the%20message%22)%3B%0A%20%20%20%20%20%20%2F%2F%20Only%20change%20code%20above%20this%20line.%0A%20%20%20%20%7D)%3B%0A%20%20%7D)%3B%0Afcces%0A%0A%0A%3Cdiv%20class%3D%22container-fluid%22%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Ch2%3ECat%20Photo%20Finder%3C%2Fh2%3E%0A%20%20%3C%2Fdiv%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Cdiv%20class%20%3D%20%22col-xs-12%20well%20message%22%3E%0A%20%20%20%20%20%20The%20message%20will%20go%20here%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2Fdiv%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Cdiv%20class%20%3D%20%22col-xs-12%22%3E%0A%20%20%20%20%20%20%3Cbutton%20id%20%3D%20%22getMessage%22%20class%20%3D%20%22btn%20btn-primary%22%3E%0A%20%20%20%20%20%20%20%20Get%20Message%0A%20%20%20%20%20%20%3C%2Fbutton%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A)
+ * [Get JSON with the jQuery getJSON Method](https://www.freecodecamp.com/challenges/get-json-with-the-jquery-getjson-method#?solution=%0Afccss%0A%20%20%24(document).ready(function()%20%7B%0A%0A%20%20%20%20%24(%22%23getMessage%22).on(%22click%22%2C%20function()%7B%0A%20%20%20%20%20%20%2F%2F%20Only%20change%20code%20below%20this%20line.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%24.getJSON(%22%2Fjson%2Fcats.json%22%2C%20function(json)%20%7B%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%24(%22.message%22).html(JSON.stringify(json))%3B%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%7D)%3B%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%2F%2F%20Only%20change%20code%20above%20this%20line.%0A%20%20%20%20%7D)%3B%0A%0A%20%20%7D)%3B%0Afcces%0A%0A%3Cdiv%20class%3D%22container-fluid%22%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Ch2%3ECat%20Photo%20Finder%3C%2Fh2%3E%0A%20%20%3C%2Fdiv%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Cdiv%20class%20%3D%20%22col-xs-12%20well%20message%22%3E%0A%20%20%20%20%20%20The%20message%20will%20go%20here%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2Fdiv%3E%0A%20%20%3Cdiv%20class%20%3D%20%22row%20text-center%22%3E%0A%20%20%20%20%3Cdiv%20class%20%3D%20%22col-xs-12%22%3E%0A%20%20%20%20%20%20%3Cbutton%20id%20%3D%20%22getMessage%22%20class%20%3D%20%22btn%20btn-primary%22%3E%0A%20%20%20%20%20%20%20%20Get%20Message%0A%20%20%20%20%20%20%3C%2Fbutton%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2Fdiv%3E%0A%3C%2Fdiv%3E%0A)
+
+
+### Day 54: March 8, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: External Monitor (day 38). Finished on fcc Basic Algorithm Scripting (Seek and Destroy, Where do I belong, Caesars Cipher).
 
@@ -23,7 +47,7 @@
  * [Caesars Cipher](https://www.freecodecamp.com/challenges/Caesars%20Cipher?solution=%0Afunction%20rot13(str)%20%7B%20%2F%2F%20LBH%20QVQ%20VG!%0A%20%20%0A%20%20return%20str.split(%22%22).map(doConvert).join(%22%22)%3B%0A%20%20%0A%20%20function%20doConvert(letter)%20%7B%0A%20%20%20%20%0A%20%20%20%20x%20%3D%20letter.charCodeAt(0)%3B%0A%20%20%20%20%0A%20%20%20%20if%20(x%20%3C%2065%20%7C%7C%20x%20%3E%2090)%20%7B%0A%20%20%20%20%20%20return%20String.fromCharCode(x)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20else%20if%20(x%20%3C%2078)%20%7B%0A%20%20%20%20%20%20return%20String.fromCharCode(x%20%2B%2013)%3B%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20return%20String.fromCharCode(x%20-%2013)%3B%0A%20%20%20%20%0A%20%20%7D%0A%20%20%0A%7D%0A%0A%2F%2F%20Change%20the%20inputs%20below%20to%20test%0Arot13(%22SERR%20PBQR%20PNZC%22)%3B)
 
 
-### Day 53: February 7, 2017
+### Day 53: March 7, 2017
 
 **Today's Progress**: Wall pizza.
 
@@ -33,7 +57,7 @@
  * [CSS Wall pizza](http://codepen.io/AlinaPant/full/yMVexW/)
 
 
-### Day 52: February 6, 2017
+### Day 52: March 6, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: Cell Phone (day 36).
 
@@ -43,7 +67,7 @@
  * [CSS Cell Phone](http://codepen.io/AlinaPant/full/yMaVxM/)
 
 
-### Day 51: February 5, 2017
+### Day 51: March 5, 2017
 
 **Today's Progress**: On freecodecamp: Mutations, Falsy Bouncer.
 
@@ -54,7 +78,7 @@
  * [Falsy Bouncer](https://www.freecodecamp.com/challenges/falsy-bouncer#?solution=%0Afunction%20bouncer(arr)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20newArr%20%3D%20arr.filter(remove)%3B%0A%20%20%20%20%20%20%0A%20%20return%20newArr%3B%0A%7D%0A%0Afunction%20remove(val)%20%7B%0A%20%20return%20Boolean(val)%3B%0A%7D%0A%0A%0A%0Abouncer(%5B7%2C%20%22ate%22%2C%20%22%22%2C%20false%2C%209%5D)%3B%0A)
 
 
-### Day 50: February 4, 2017
+### Day 50: March 4, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: Elm Logo (day 35) and reworked some things in React Logo. On fcc: Truncate a string, Chunky Monkey, Slasher Flick.
 
@@ -68,7 +92,7 @@
  * [Slasher Flick](https://www.freecodecamp.com/challenges/slasher-flick#?solution=%0Afunction%20slasher(arr%2C%20howMany)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20newArr%20%3D%20arr.slice().splice(howMany)%3B%0A%20%20%7D%0A%20%20%0A%20%20return%20newArr%3B%0A%7D%0A%0Aslasher(%5B1%2C%202%2C%20%22chicken%22%2C%203%2C%20%22potatoes%22%2C%20%22cheese%22%2C%204%5D%2C%205)%3B%0A)
 
 
-### Day 49: February 3, 2017
+### Day 49: March 3, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: React Logo (day 34).
 
@@ -78,7 +102,7 @@
  * [CSS React Logo](http://codepen.io/AlinaPant/full/vxKBME/)
 
 
-### Day 48: February 2, 2017
+### Day 48: March 2, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: Angular Logo (day 32).
 
@@ -88,7 +112,7 @@
  * [CSS Angular Logo](http://codepen.io/AlinaPant/full/LWNNQo/)
 
 
-### Day 47: February 1, 2017
+### Day 47: March 1, 2017
 
 **Today's Progress**: Created for Daily CSS Image Challenge: Vue JS Logo (day 33).
 
