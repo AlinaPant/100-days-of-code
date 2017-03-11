@@ -4,7 +4,7 @@
 
 ### Day 57: March 11, 2017
 
-**Today's Progress**: Coded Random Quote Machine.
+**Today's Progress**: Coded Random Quote Machine, but need to add twitter shere.
 
 **Thoughts:** 
 
