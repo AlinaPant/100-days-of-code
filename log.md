@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 14, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 59: March 13, 2017
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 58: March 12, 2017
+
+**Today's Progress**: Finished with Random Quote Machine from fcc.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Random Quote Machine](http://codepen.io/AlinaPant/full/XMRapE/)
 
 
 ### Day 57: March 11, 2017
@@ -9,7 +37,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [ Random Quote Machine](http://codepen.io/AlinaPant/full/XMRapE/)
+ * [Random Quote Machine](http://codepen.io/AlinaPant/full/XMRapE/)
 
 
 ### Day 56: March 10, 2017
