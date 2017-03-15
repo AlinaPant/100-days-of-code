@@ -1,8 +1,51 @@
 # 100 Days Of Code - Log
 
+
+
+
+### Day 64: March 18, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 63: March 17, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 62: March 16, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 61: March 15, 2017
+
+**Today's Progress** Created for Daily CSS Image Challenge: Nintendo 2DS (day 40). Fixed some moment on portfolio page.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [CSS Nintendo 2DS](http://codepen.io/AlinaPant/full/qrPBVN/)
+
+
 ### Day 60: March 14, 2017
 
-**Today's Progress**:
+**Today's Progress** Worked on update my portfolio page. Link coming soon.
 
 **Thoughts:** 
 
@@ -12,12 +55,12 @@
 
 ### Day 59: March 13, 2017
 
-**Today's Progress**:
+**Today's Progress**: Created for Daily CSS Image Challenge: Keyboard (day 39).
 
 **Thoughts:** 
 
 **Link to work:**
- * []()
+ * [CSS Keyboard](http://codepen.io/AlinaPant/full/RpgoyK/)
 
 
 ### Day 58: March 12, 2017
