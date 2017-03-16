@@ -25,17 +25,18 @@
 
 ### Day 62: March 16, 2017
 
-**Today's Progress**
+**Today's Progress** Created for Daily CSS Image Challenge: Robot (day 44). The personal portfolio.
 
 **Thoughts:** 
 
 **Link to work:**
- * []()
+ * [CSS Robot](http://codepen.io/AlinaPant/full/ryYOzR/)
+ * [The personal portfolio](alinapant.ml)
 
 
 ### Day 61: March 15, 2017
 
-**Today's Progress** Created for Daily CSS Image Challenge: Nintendo 2DS (day 40). Fixed some moment on portfolio page.
+**Today's Progress** Created for Daily CSS Image Challenge: Nintendo 2DS (day 40). Fixed some moments on portfolio page.
 
 **Thoughts:** 
 
