@@ -31,7 +31,7 @@
 
 **Link to work:**
  * [CSS Robot](http://codepen.io/AlinaPant/full/ryYOzR/)
- * [The personal portfolio](alinapant.ml)
+ * [The personal portfolio](http://alinapant.ml)
 
 
 ### Day 61: March 15, 2017
