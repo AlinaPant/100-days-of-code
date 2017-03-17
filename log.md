@@ -15,12 +15,12 @@
 
 ### Day 63: March 17, 2017
 
-**Today's Progress**
+**Today's Progress** Again fixed portfolio page (and it's for chellenge 30 Days/30 Sites Day 1: Portfolio). Started work on Day 2 (event invitation).
 
 **Thoughts:** 
 
 **Link to work:**
- * []()
+ * [The personal portfolio](http://alinapant.ml)
 
 
 ### Day 62: March 16, 2017
