@@ -5,12 +5,13 @@
 
 ### Day 64: March 18, 2017
 
-**Today's Progress**
+**Today's Progress** Created for Daily CSS Image Challenge:  Space-Inspired (day 45) && Animal (сloud wants to be a unicorn) (day 43).
 
 **Thoughts:** 
 
 **Link to work:**
- * []()
+ * [CSS Animal (сloud wants to be a unicorn)](https://codepen.io/AlinaPant/full/vxpZyE/)
+ * [CSS Space-Inspired](https://codepen.io/AlinaPant/full/ZeveZQ/)
 
 
 ### Day 63: March 17, 2017
