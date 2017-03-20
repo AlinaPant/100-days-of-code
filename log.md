@@ -1,6 +1,51 @@
 # 100 Days Of Code - Log
 
 
+### Day 69: March 23, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 68: March 22, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 67: March 21, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 66: March 20, 2017
+
+**Today's Progress** On fcc: Sum All Numbers in a Range and for Daily CSS Image Challenge created:  Space-Inspired (day 41).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range#?solution=%0Afunction%20sumAll(arr)%20%7B%0A%20%0A%20var%20maxNum%20%3D%20Math.max.apply(null%2C%20arr)%3B%0A%20var%20minNum%20%3D%20Math.min.apply(null%2C%20arr)%3B%0A%20var%20result%20%3D%200%3B%0A%20var%20range%20%3D%20maxNum%20-%20minNum%3B%0A%20%20%0A%20for%20(var%20i%20%3D%201%3B%20i%20%3C%20range%3B%20i%2B%2B)%20%7B%0A%20%20%20%20result%20%2B%3D%20minNum%20%2B%20i%3B%0A%20%7D%0A%20%0A%20result%20%2B%3D%20maxNum%20%2B%20minNum%3B%0A%20%20%0A%20return%20result%3B%0A%7D%0A%0AsumAll(%5B4%2C%201%5D)%3B%0A)
+ * [CSS Mascot for Startup](http://codepen.io/AlinaPant/pen/aJqwjX)
+
+
+### Day 65: March 19, 2017
+
+**Today's Progress** Worked on Local Weather.
+
+**Thoughts:** 
+
+**Link to work:**
 
 
 ### Day 64: March 18, 2017
