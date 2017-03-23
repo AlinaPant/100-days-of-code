@@ -3,16 +3,19 @@
 
 ### Day 69: March 23, 2017
 
-**Today's Progress**
+**Today's Progress** Created for Daily CSS Image Challenge: Craft Beer (day 48). On fcc: Diff Two Arrays && Roman Numeral Converter.
 
 **Thoughts:** 
 
 **Link to work:**
+ * [CSS Craft Beer](http://codepen.io/AlinaPant/full/NpMJgK/)
+ * [Diff Two Arrays](https://www.freecodecamp.com/challenges/diff-two-arrays#?solution=%0Afunction%20diffArray(arr1%2C%20arr2)%20%7B%0A%20%20%0A%20%20var%20newArr%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20arr1.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20if%20(arr2.indexOf(arr1%5Bi%5D)%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20newArr.push(arr1%5Bi%5D)%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20for%20(var%20j%20%3D%200%3B%20j%20%3C%20arr2.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20if%20(arr1.indexOf(arr2%5Bj%5D)%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20newArr.push(arr2%5Bj%5D)%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20return%20newArr%3B%0A%7D%0A%0AdiffArray(%5B%22andesite%22%2C%20%22grass%22%2C%20%22dirt%22%2C%20%22pink%20wool%22%2C%20%22dead%20shrub%22%5D%2C%20%5B%22diorite%22%2C%20%22andesite%22%2C%20%22grass%22%2C%20%22dirt%22%2C%20%22dead%20shrub%22%5D)%3B%0A)
+ * [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter#?solution=%0Afunction%20convertToRoman(num)%20%7B%0A%20%20%0A%20%20var%20roman%20%3D%20%22%22%3B%0A%20%20var%20romanNum%20%3D%20%5B%22M%22%2C%20%22CM%22%2C%20%22D%22%2C%20%22CD%22%2C%20%22C%22%2C%20%22XC%22%2C%20%22L%22%2C%20%22XL%22%2C%20%22X%22%2C%20%22IX%22%2C%20%22V%22%2C%20%22IV%22%2C%20%22I%22%5D%3B%0A%20%20var%20numbers%20%3D%20%5B1000%2C%20900%2C%20500%2C%20400%2C%20100%2C%2090%2C%2050%2C%2040%2C%2010%2C%209%2C%205%2C%204%2C%201%5D%3B%0A%20%20%0A%20%20for%20(var%20i%20%3D%200%3B%20i%20%3C%20numbers.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20while%20(num%20%3E%3D%20numbers%5Bi%5D)%20%7B%0A%20%20%20%20%20%20roman%20%2B%3D%20romanNum%5Bi%5D%3B%0A%20%20%20%20%20%20num%20-%3D%20numbers%5Bi%5D%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20return%20roman%3B%0A%7D%0A%0AconvertToRoman(36)%3B%0A)
 
 
 ### Day 68: March 22, 2017
 
-**Today's Progress**
+**Today's Progress** Sololearn (JavaScript Tutorial)
 
 **Thoughts:** 
 
@@ -21,7 +24,7 @@
 
 ### Day 67: March 21, 2017
 
-**Today's Progress**
+**Today's Progress** Sololearn (JavaScript Tutorial)
 
 **Thoughts:** 
 
