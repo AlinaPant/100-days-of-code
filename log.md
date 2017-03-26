@@ -1,6 +1,37 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 71: March 26, 2017
+
+**Today's Progress** On Sololearn finished JavaScript Tutorial.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Profile](https://www.sololearn.com/Profile/4057671)
+ * [Certificate](https://www.sololearn.com/Certificate/1024-4057671/pdf/)
+
+
+### Day 70: March 25, 2017
+
+**Today's Progress** Created for Daily CSS Image Challenge: Cake (day 47).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [CSS Cake]()
+
+
+### Day 00: March 24, 2017
+
+**Today's Progress** Missed the day
+
+**Thoughts:** 
+
+**Link to work:**
+
+
 ### Day 69: March 23, 2017
 
 **Today's Progress** Created for Daily CSS Image Challenge: Craft Beer (day 48). On fcc: Diff Two Arrays && Roman Numeral Converter.
