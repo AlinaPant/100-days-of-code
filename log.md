@@ -2,6 +2,27 @@
 
 
 
+### Day 73: March 28, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+ * []()
+
+
+### Day 72: March 27, 2017
+
+**Today's Progress** On fcc coded The Local Weather and watched video chellenges the DOM & JS Lingo.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [The Local Weather](http://codepen.io/AlinaPant/pen/PpdWmR)
+
+
 ### Day 71: March 26, 2017
 
 **Today's Progress** On Sololearn finished JavaScript Tutorial.
@@ -9,7 +30,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [Profile](https://www.sololearn.com/Profile/4057671)
+ * [Profile on sololearn](https://www.sololearn.com/Profile/4057671)
  * [Certificate](https://www.sololearn.com/Certificate/1024-4057671/pdf/)
 
 
