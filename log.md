@@ -2,7 +2,7 @@
 
 
 
-### Day 73: March 28, 2017
+### Day 75: March 30, 2017
 
 **Today's Progress**
 
@@ -11,6 +11,27 @@
 **Link to work:**
  * []()
  * []()
+
+
+### Day 74: March 29, 2017
+
+**Today's Progress** Sololearn: jQuery Tutorial.
+
+**Thoughts:** 
+
+**Link to work:**
+ * [Sololearn: Profile](https://www.sololearn.com/Profile/4057671)
+
+
+### Day 73: March 28, 2017
+
+**Today's Progress** On fcc watched video chellenges Computer Basics. Created for Daily CSS Image Challenge: Critter (day 42).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [CSS Critter](http://codepen.io/AlinaPant/full/YZJKYz/)
+ * [fcc profile](https://www.freecodecamp.com/alinapant)
 
 
 ### Day 72: March 27, 2017
@@ -41,7 +62,7 @@
 **Thoughts:** 
 
 **Link to work:**
- * [CSS Cake]()
+ * [CSS Cake](http://codepen.io/AlinaPant/full/dvjOrO/)
 
 
 ### Day 00: March 24, 2017
