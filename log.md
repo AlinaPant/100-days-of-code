@@ -2,6 +2,42 @@
 
 
 
+
+
+
+
+### Day 78: April 2, 2017
+
+**Today's Progress**
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+ * []()
+
+
+### Day 77: April 1, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+ * []()
+
+
+### Day 76: March 31, 2017
+
+**Today's Progress**
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+ * []()
+
+
 ### Day 75: March 30, 2017
 
 **Today's Progress**
