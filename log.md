@@ -1,52 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Days 75 - 89: March 30 - April 13, 2017
 
-
-
-
-
-### Day 78: April 2, 2017
-
-**Today's Progress**
-**Thoughts:** 
-
-**Link to work:**
- * []()
- * []()
-
-
-### Day 77: April 1, 2017
-
-**Today's Progress**
+**Today's Progress** Plaing with WordPress and working on my portfolio (fixed some problems, refreshed img, added new pages with projects; all adaptive). Created for Daily CSS Image Challenge: Pinata (day 46) && Dance (day 49).
 
 **Thoughts:** 
 
 **Link to work:**
- * []()
- * []()
-
-
-### Day 76: March 31, 2017
-
-**Today's Progress**
-
-**Thoughts:** 
-
-**Link to work:**
- * []()
- * []()
-
-
-### Day 75: March 30, 2017
-
-**Today's Progress**
-
-**Thoughts:** 
-
-**Link to work:**
- * []()
- * []()
+ * [CSS Pinata](http://codepen.io/AlinaPant/full/aJQaey/)
+ * [CSS Dance](http://codepen.io/AlinaPant/full/bWbpxR/)
+ * [Portfolio page](http://alinapant.ml/)
 
 
 ### Day 74: March 29, 2017
