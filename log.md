@@ -3,7 +3,7 @@
 
 ### Days 75 - 89: March 30 - April 13, 2017
 
-**Today's Progress** Plaing with WordPress and working on my portfolio (fixed some problems, refreshed img, added new pages with projects; all adaptive). Created for Daily CSS Image Challenge: Pinata (day 46) && Dance (day 49).
+**Today's Progress** Plaing with WordPress and working on my portfolio (fixed some problems, refreshed img, added new pages with projects; all adaptive). Created for Daily CSS Image Challenge: Pinata (day 46) && Dance (day 49) and invitation for #30Days30Sites.
 
 **Thoughts:** 
 
@@ -11,6 +11,7 @@
  * [CSS Pinata](http://codepen.io/AlinaPant/full/aJQaey/)
  * [CSS Dance](http://codepen.io/AlinaPant/full/bWbpxR/)
  * [Portfolio page](http://alinapant.ml/)
+ * [Invitation](http://alinapant.ml/catalogue/invitation/)
 
 
 ### Day 74: March 29, 2017
