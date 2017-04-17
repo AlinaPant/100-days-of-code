@@ -1,6 +1,48 @@
 # 100 Days Of Code - Log
 
 
+
+
+### Day 93: April 17, 2017
+
+**Today's Progress** Created for Daily CSS Image Challenge: Party City (day 50).
+
+**Thoughts:** 
+
+**Link to work:**
+ * [CSS Party City](http://codepen.io/AlinaPant/full/RVPebQ/)
+
+
+### Day 92: April 16, 2017
+
+**Today's Progress** Planning pen (Party City) layout. Documentation Bootstrap v4.0.0-alpha.6. This v really awesome (flexbox!). Started work on day3 (Tourist attraction) for 30Days30Sites. I want use only Bootstrap's classes.
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 91: April 15, 2017
+
+**Today's Progress** Planning day3 (Tourist attraction for 30Days30Sites) layout. Jekyll.
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
+### Day 90: April 14, 2017
+
+**Today's Progress** Continue playing with wp.
+
+**Thoughts:** 
+
+**Link to work:**
+ * []()
+
+
 ### Days 75 - 89: March 30 - April 13, 2017
 
 **Today's Progress** Plaing with WordPress and working on my portfolio (fixed some problems, refreshed img, added new pages with projects; all adaptive). Created for Daily CSS Image Challenge: Pinata (day 46) && Dance (day 49) and invitation for #30Days30Sites.
