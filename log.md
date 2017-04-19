@@ -43,10 +43,7 @@
 
 ### Day 95: April 19, 2017
 
-**Today's Progress**
-
-**Link to work:**
- * []()
+**Today's Progress** Learned HTML Email.
 
 
 ### Day 94: April 18, 2017
