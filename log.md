@@ -27,15 +27,15 @@
 
 ### Day 97: April 21, 2017
 
-**Today's Progress**
+**Today's Progress** Wikipedia Viewer for fcc. Need make design for this app. React on codecademy. Created design for Calculator. Link will be added when create calculator for fcc.
 
 **Link to work:**
- * []()
+ * [Wikipedia Viewer](https://codepen.io/AlinaPant/full/aWZoPv/)
 
 
 ### Day 96: April 20, 2017
 
-**Today's Progress**
+**Today's Progress** Continued learn HTML Email.
 
 **Link to work:**
  * []()
