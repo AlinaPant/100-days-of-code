@@ -19,10 +19,7 @@
 
 ### Day 98: April 22, 2017
 
-**Today's Progress**
-
-**Link to work:**
- * []()
+**Today's Progress** Started work on the Twitchtv JSON API and creat own HTML Email (no link, it's private).
 
 
 ### Day 97: April 21, 2017
@@ -36,9 +33,6 @@
 ### Day 96: April 20, 2017
 
 **Today's Progress** Continued learn HTML Email.
-
-**Link to work:**
- * []()
 
 
 ### Day 95: April 19, 2017
