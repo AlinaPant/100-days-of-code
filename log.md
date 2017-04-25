@@ -3,23 +3,20 @@
 
 ### Day 100: April 24, 2017
 
-**Today's Progress**
+**Today's Progress** Created for [#30Days30Sites](http://www.subscribepage.com/30days30sites) Challenge menu
 
 **Link to work:**
- * []()
+ * [menu](http://alinapant.ml/catalogue/menu/)
 
 
 ### Day 99: April 23, 2017
 
-**Today's Progress**
-
-**Link to work:**
- * []()
+**Today's Progress** React
 
 
 ### Day 98: April 22, 2017
 
-**Today's Progress** Started work on the Twitchtv JSON API and creat own HTML Email (no link, it's private).
+**Today's Progress** Started work on the Twitchtv JSON API and creat own template HTML Email (no link, it's private).
 
 
 ### Day 97: April 21, 2017
